@@ -1,3 +1,1 @@
-[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=snailrake&theme=dark&background=000000)](https://git.io/streak-stats)
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=snailrake&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
+[![GitHub Streak](https://streak-stats.demolab.com?user=snailrake&theme=dark&hide_border=true&locale=ru&date_format=j%2Fn%5B%2FY%5D&mode=weekly&card_width=550&border=EB5454&hide_current_streak=true&hide_longest_streak=true)](https://git.io/streak-stats)
