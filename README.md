@@ -8,9 +8,9 @@
 	<code><img width="50" src="https://user-images.githubusercontent.com/25181517/183891303-41f257f8-6b3d-487c-aa56-c497b880d0fb.png" alt="Spring Boot" title="Spring Boot"/></code>
 	<code><img width="50" src="https://user-images.githubusercontent.com/25181517/117207493-49665200-adf4-11eb-808e-a9c0fcc2a0a0.png" alt="Hibernate" title="Hibernate"/></code>
 	<code><img width="50" src="https://user-images.githubusercontent.com/25181517/192107004-2d2fff80-d207-4916-8a3e-130fee5ee495.png" alt="kafka" title="kafka"/></code>
-	<code><img width="50" src="https://user-images.githubusercontent.com/25181517/182884894-d3fa6ee0-f2b4-4960-9961-64740f533f2a.png" alt="redis" title="redis"/></code>
-	<code><img width="50" src="https://user-images.githubusercontent.com/25181517/117208740-bfb78400-adf5-11eb-97bb-09072b6bedfc.png" alt="PostgreSQL" title="PostgreSQL"/></code>
-	<code><img width="50" src="https://user-images.githubusercontent.com/25181517/186711335-a3729606-5a78-4496-9a36-06efcc74f800.png" alt="Swagger" title="Swagger"/></code>
+	<code><img width="50" src="https://icon.icepanel.io/Technology/svg/Redis.svg" alt="redis" title="redis"/></code>
+	<code><img width="50" src="https://icon.icepanel.io/Technology/svg/PostgresSQL.svg" alt="PostgreSQL" title="PostgreSQL"/></code>
+	<code><img width="50" src="https://icon.icepanel.io/Technology/svg/Swagger.svg" alt="Swagger" title="Swagger"/></code>
 	<code><img width="50" src="https://icon.icepanel.io/Technology/svg/Apache-Maven.svg" alt="Maven" title="Maven"/></code>
 	<code><img width="50" src="https://icon.icepanel.io/Technology/svg/Docker.svg" alt="Docker" title="Docker"/></code>
  	<code><img width="50" src="https://icon.icepanel.io/Technology/svg/Jira.svg" alt="Jira" title="Jira"/></code>
