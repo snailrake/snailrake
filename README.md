@@ -13,5 +13,5 @@
 	<code><img width="50" src="https://user-images.githubusercontent.com/25181517/186711335-a3729606-5a78-4496-9a36-06efcc74f800.png" alt="Swagger" title="Swagger"/></code>
 	<code><img width="50" src="https://icon.icepanel.io/Technology/svg/Apache-Maven.svg" alt="Maven" title="Maven"/></code>
 	<code><img width="50" src="https://icon.icepanel.io/Technology/svg/Docker.svg" alt="Docker" title="Docker"/></code>
- 	<code><img width="50" src="https://user-images.githubusercontent.com/25181517/183912952-83784e94-629d-4c34-a961-ae2ae795b662.png" alt="Jira" title="Jira"/></code>
+ 	<code><img width="50" src="https://icon.icepanel.io/Technology/svg/Jira.svg" alt="Jira" title="Jira"/></code>
 </div>
