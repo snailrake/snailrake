@@ -10,5 +10,5 @@
 	<code><img width="50" src="https://user-images.githubusercontent.com/25181517/117208740-bfb78400-adf5-11eb-97bb-09072b6bedfc.png" alt="PostgreSQL" title="PostgreSQL"/></code>
 	<code><img width="50" src="https://user-images.githubusercontent.com/25181517/182884894-d3fa6ee0-f2b4-4960-9961-64740f533f2a.png" alt="redis" title="redis"/></code>
 	<code><img width="50" src="https://user-images.githubusercontent.com/25181517/117207330-263ba280-adf4-11eb-9b97-0ac5b40bc3be.png" alt="Docker" title="Docker"/></code>
-	<code><img width="50" src="https://e7.pngegg.com/pngimages/508/156/png-clipart-gradle-computer-icons-transparency-logo-scalable-graphics-share-to-mammal-text-thumbnail.png" alt="Gradle" title="Gradle"/></code>
+	<code><img width="50" src="https://w1.pngwing.com/pngs/517/80/png-transparent-java-logo-gradle-software-build-build-automation-gradle-inc-apache-maven-kotlin-software-developer.png" alt="Gradle" title="Gradle"/></code>
 </div>
