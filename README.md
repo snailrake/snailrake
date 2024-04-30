@@ -11,6 +11,7 @@
 	<code><img width="50" src="https://icon.icepanel.io/Technology/svg/PostgresSQL.svg" alt="PostgreSQL" title="PostgreSQL"/></code>
 	<code><img width="50" src="https://icon.icepanel.io/Technology/svg/Swagger.svg" alt="Swagger" title="Swagger"/></code>
 	<code><img width="50" src="https://icon.icepanel.io/Technology/svg/Apache-Maven.svg" alt="Maven" title="Maven"/></code>
+	<code><img width="50" src="https://icon.icepanel.io/Technology/png-shadow-512/Gradle.png" alt="Gradle" title="Gradle"/></code>
 	<code><img width="50" src="https://icon.icepanel.io/Technology/svg/Docker.svg" alt="Docker" title="Docker"/></code>
  	<code><img width="50" src="https://icon.icepanel.io/Technology/svg/Jira.svg" alt="Jira" title="Jira"/></code>
 	<code><img width="50" src="https://icon.icepanel.io/Technology/png-shadow-512/Linux.png" alt="Linux" title="Linux"/></code>
