@@ -17,5 +17,3 @@
 	<code><img width="50" src="https://icon.icepanel.io/Technology/png-shadow-512/Linux.png" alt="Linux" title="Linux"/></code>
 	<code><img width="50" src="https://icon.icepanel.io/Technology/png-shadow-512/AWS.png" alt="AWS" title="AWS"/></code>
 </div>
-
-[![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=snailrake)](https://github.com/ashutosh00710/github-readme-activity-graph)
